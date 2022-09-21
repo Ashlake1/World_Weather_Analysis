@@ -1,2 +1,6 @@
 # World_Weather_Analysis
-Python/Pandas Collect and analyze weather data of cities across the world and usethe data to recommend ideal hotels based on clients' weather preferences.
+## Purpose
+Collect, analyze, and display weather data of cities across the world to recommend ideal hotels based on clients' weather preferences. Once info is gathered create a travel route using Google Maps API. 
+
+## Tools/Resources:
+Python, Pandas, NumPy, Google APIs.
